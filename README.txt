@@ -1,4 +1,4 @@
-Chat application (chatapp)
+Chat application (Chat App)
 Проект, состоящий из клиента на JavaScript и бэкенда на Django Rest Framework.
 
 Краткое описание:
